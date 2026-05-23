@@ -1,0 +1,4 @@
+[package]
+name = "wasmer-relay"
+version = "0.1.0"
+entrypoint = "src/index.js"
